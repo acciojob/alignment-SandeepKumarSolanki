@@ -1,1 +1,54 @@
 /*  your css code here. If applicable */
+
+	
+	h1 {
+	      text-align: center;
+	}
+    
+    table {
+      margin: 20px;
+      border: 1px solid black;
+      padding: 1px;
+      spacing:1px;
+      
+    }
+
+    #table-1 {
+        width: 100vh;
+    }
+
+    #table-1 tr #t11{
+        text-align: left;
+    }
+
+    #table-1 tr #t13{
+        text-align: right;
+    }
+
+
+    #table-2{
+        width: 100vh;
+    }
+
+    #table-2 tr td{
+        padding: 10px;
+    }
+    
+    #table-3 tr td{
+        width: 100vh;
+        padding: 10px;
+    }
+
+    #table-3 #green{
+        background-color: green;
+    }
+
+    #table-3 #blue{
+        background-color: blue;
+    }
+
+    td {
+      border: 1px solid black;
+      text-align: center;
+    
+    }
